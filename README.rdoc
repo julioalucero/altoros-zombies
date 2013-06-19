@@ -1,13 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We like to eat people, so we think that perhaps we are zombies.
 
-Things you may want to cover:
+=== Requirements:
 
-* Ruby version
+* Ruby version: 2.0 prefered
 
-* System dependencies
+* System dependencies: rails 4
 
 * Configuration
 
